@@ -1,6 +1,6 @@
 # Welcome to OHLC demo 
 
-## to run the this demo locally 
+## to run this demo locally 
 
 - `npm i` run this command in command prompt or gt bash to get all packges locally.
 
@@ -15,7 +15,7 @@
 
  - instead of file read we can go for multiple file read form a folder and move to archive folder once read          complete
  
- ## assumption 
+ ## assumptions 
 
  - first bar start with first trade but there is no time over for a day, an example current there is opening time    and closing time of trade in BSE and NSE here no closing time until last trade finds.
 
